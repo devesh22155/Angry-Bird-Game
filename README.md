@@ -12,7 +12,7 @@ This is a simple physics-based Angry Bird-style game created as a part of our **
 
 ## 🛠️ Tech Stack
 
-- Python 
+- Java 
 - Git for version control
 
 ## 📁 How to Run
@@ -24,5 +24,5 @@ git clone https://github.com/devesh22155/Angry-Bird-Game.git
 # Navigate to the project directory
 cd Angry-Bird-Game
 
-# Run the game (example if using Python)
-python main.py
+# Run the game 
+
