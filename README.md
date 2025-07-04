@@ -1,6 +1,6 @@
 # Angry Bird Game 🎯🐦
 
-This is a simple physics-based Angry Bird-style game created as a part of our **Applied Programming** coursework. The game uses basic mechanics like projectile motion, collisions, and object interactions to simulate the behavior of launching a bird to hit targets.
+This is a simple physics-based Angry Bird-style game created as a part of our **Advance Programming** coursework. The game uses basic mechanics like projectile motion, collisions, and object interactions to simulate the behavior of launching a bird to hit targets.
 
 ## 🎮 Features
 
